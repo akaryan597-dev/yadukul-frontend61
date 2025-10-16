@@ -2,7 +2,6 @@ import Header from '../components/Header';
 import dynamic from 'next/dynamic';
 const HeroCinematic = dynamic(()=>import('../components/HeroCinematic'), {ssr:false});
 const AnimatedCounters = dynamic(()=>import('../components/AnimatedCounters'), {ssr:false});
-import dynamic from 'next/dynamic';
 const Hero = dynamic(()=>import('../components/Hero'), {ssr:false});
 import Link from 'next/link';
 export default function Home(){ return (

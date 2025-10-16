@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120">
+<rect width="100%" height="100%" fill="#071025"/>
+<text x="20" y="65" font-family="Inter, Arial" font-size="36" fill="#00C2A8" font-weight="700">Yadukul</text>
+<text x="180" y="65" font-family="Inter, Arial" font-size="20" fill="#e6eef8">Dairy Pvt. Ltd.</text>
+<circle cx="340" cy="60" r="28" fill="#FDBA12"/>
+<text x="332" y="67" font-family="Inter, Arial" font-size="20" fill="#071025" font-weight="700">YD</text>
+</svg>
